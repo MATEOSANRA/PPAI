@@ -1,0 +1,180 @@
+{
+    "vinos": [
+      {
+        "nombre": "Chateau Margaux",
+        "imagen": "https://horizonlives3.diageohorizon.com/PR1600/media/images/bottles/imported/2%2084%20C01679%20Ch%C3%A2teau%20Margaux,%201er%20Cru%20Class%C3%A9,%20Margaux%20copy.jpg",
+        "precio": 6100000,
+        "aniada": 2001,
+        "notaDeCata": "Puro, bastante herbal y salvaje, casi sauvage, con bayas rojas y más oscuras, salvia, un poco de menta también. Unas notas florales de iris aparecen con la aireación. Y también hay cereza, sobre todo piel de cereza. Muy puro e intenso, con taninos de una finura impresionante. El regaliz aporta una delicada salinidad. Quizás le falta un poco de complejidad, ciertamente en comparación con el grand vin, pero su textura es ciertamente muy fina.",
+        "fechaActualizacion": 20
+      },
+      {
+        "nombre": "Romanee-Conti",
+        "imagen": "https://cdn.vinissimus.com/img/unsafe/p500x/plain/local:///prfmtgrande/vi/rcrco10_anv800.png",
+        "precio": 15200000,
+        "aniada": 2010,
+        "notaDeCata": "Romanée-Conti es otro universo. Incluso en una añada difícil, todo es siempre picante y elegante. No es un alarde explosivo, pero se siente sólido en boca: tiene mucho material",
+        "fechaActualizacion": 8
+      },
+      {
+        "nombre": "Penfolds Grange",
+        "imagen": "https://www.selectuswines.com/es/image/arxiu/d1ae4dc4144e41e1ae8a7bb56ada401a.jpg?w=165",
+        "precio": 690500,
+        "aniada": 2007,
+        "notaDeCata": "Su golosidad es inconmensurable. Su musculatura es turbadora y es difícil de imaginar una shiraz con tanta clase en el mundo. Recorrerá aun muchos años hasta su final y solamente el tiempo dirá si estará a la altura de otros míticos Grange, pues la difícil añada que resultó ser 2007 no se lo pondrá fácil a priori. ",
+        "fechaActualizacion": 13
+      },
+      {
+        "nombre": "Vega Sicilia Unico",
+        "imagen": "https://www.antzara.com/cdn/shop/files/8436014243874.1_1_720x.jpg?v=1690908807",
+        "precio": 13113000,
+        "aniada": 2013,
+        "notaDeCata": "Esta deliciosa experiencia se caracteriza por su aroma a frutos rojos maduros y notas de vainilla. La boca es llena y estructurada, con taninos refinados que no cansan, dando lugar a un final largo y persistente.",
+        "fechaActualizacion": 10
+      },
+      {
+        "nombre": "Screaming Eagle",
+        "imagen": "https://merchantofwine.com/cdn/shop/products/Screaming-Eagle-Cabernet-Sauvignon-Napa-valley-California-2019.jpg?v=1680887688&width=900",
+        "precio": 6500000,
+        "aniada": 2019,
+        "notaDeCata": "Nariz alucinante con menta verde, clavo y moras. Florales también. Cuerpo completo con detalles fenomenales que incluyen delicadas pero intensas moras, espresso, roble tostado, caramelo y chocolate amargo. Cedro y tabaco dulce. Delicadeza por todas partes.",
+        "fechaActualizacion": 4
+      },
+      {
+        "nombre": "Chateau Lafite Rothschild",
+        "imagen": "https://www.lanaval.com.mx/115666-product_default/chateau-lafite-rothschild-2017-750-ml.jpg",
+        "precio": 32480000,
+        "aniada": 2017,
+        "notaDeCata": "Un vino que destaca por su elegancia y encanto, aunque aún se nota cierta moderación. Nariz de gran consistencia marcada por aromas de frutos rojos y negros, notas arbustivas y especiadas.",
+        "fechaActualizacion": 5
+      },
+      {
+        "nombre": "Mouton Rothschild",
+        "imagen": "https://www.lanaval.com.mx/90878-product_default/tinto-chateau-mouton-rothschild-2006-750-ml-.jpg",
+        "precio": 23490000,
+        "aniada": 2006,
+        "notaDeCata": "Al olfato tiene aromas a frutos rojos silvestres, lácteos, tostados, incienso, avellanas y roble. Al gusto tiene un ataque fresco, taninos agradables, redondez y sedosidad.",
+        "fechaActualizacion": 12
+      },
+      {
+        "nombre": "OPUS ONE",
+        "imagen": "https://www.vinoscutanda.com/23049-large_default/opus-one-2016.jpg",
+        "precio": 503900,
+        "aniada": 2016,
+        "notaDeCata": "Jugosos sabores de cereza negra, zarzamora y casis inundan el paladar, y cremosos taninos de grano fino aportan una estructura deliciosamente redonda. Armonioso y vivo, con un acabado duradero con toques de chocolate negro y café espresso.",
+        "fechaActualizacion": 5
+      },
+      {
+        "nombre": "Tignanello",
+        "imagen": "https://www.antinori.it/wp-content/uploads/2018/06/Antinori_Tignanello2017_senza-anno.png",
+        "precio": 3000000,
+        "aniada": 2013,
+        "notaDeCata": "De color rojo rubí intenso con reflejos violáceos, Tignanello 2013 se presenta en nariz con gran intensidad de fruta roja que se funde bien con las agradables notas de vainilla, cacao y cuero, derivadas de una excelente dosificación y una buena amalgama de madera; También son importantes las notas especiadas y balsámicas que le dan complejidad aromática. ",
+        "fechaActualizacion": 9
+      },
+      {
+        "nombre": "Barolo",
+        "imagen": "https://chedrauimx.vtexassets.com/arquivos/ids/29661191-1600-auto?v=638496672214500000&width=1600&height=auto&aspect=true",
+        "precio": 951000,
+        "aniada": 2022,
+        "notaDeCata": "Vino Tinto Italiano, refinamiento tradicional en barricas de roble eslavo y en la botella garantiza una gran elegancia, armonía y equilibrio.",
+        "fechaActualizacion": 1
+      },
+      {
+        "nombre": "Col D'Orcia Brunello Di Montalcino",
+        "imagen": "https://mercadodevinos.mx/cdn/shop/products/Brunello_Di_Montalcino_Vendimia_720x.jpg?v=1522122574",
+        "precio": 1987000,
+        "aniada": 2013,
+        "notaDeCata": "Buena combinación de potencia y elegancia. La estructura tánica está presente, llena y una viva acidez. Sensación de fineza con un retrogusto potente, largo y afrutado.",
+        "fechaActualizacion": 6
+      },
+      {
+        "nombre": "Vino Toro",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3q9G2VeUODaiYpZM-cmDNIzJ6ZXrHbt4Wvg&s",
+        "precio": 4500,
+        "aniada": 2023,
+        "notaDeCata": "El vino toro es sin duda una experiencia completamente surrealista. A través de su elevado gramaje y alta calidad es capaz de elevar a uno a la más alta realeza a la ves que lo retrotrae a su juventud. El mejor por mucho.",
+        "fechaActualizacion": 3
+      },
+      {
+        "nombre": "Clos Du Pape",
+        "imagen": "https://www.bodeboca.com/sites/default/files/styles/mainbottle_normal/public/wines/2023-07/bot-closdespapes-chateauneufdupape-2021.png?itok=ni3Xubr_",
+        "precio": 119000,
+        "aniada": 2021,
+        "notaDeCata": "Intenso, elegante, aromático y memorable. Este tinto de Clos de Papes es uno de los vinos más deseados del Ródano. Elaborado con un preciso ensamblaje de las tres uvas tintas principales de la región la Garnacha, la Monastrell y la Syrah, esta referencia captura el carácter cautivador de esta una de las zonas más admiradas de Francia.",
+        "fechaActualizacion": 3
+      },
+      {
+        "nombre": "Chateauneuf du Pape",
+        "imagen": "https://www.modiga.com.py/products/images/93/1659097938.png",
+        "precio": 34035,
+        "aniada": 1996,
+        "notaDeCata": "Un vino que no pasa desapercibido en ningún momento procedente de la Côte du Rhône del famoso pueblo Chateneud du Pape dónde cultivan la Garnacha de manera maravillosa, impregnándola de personalidad y carácter. Color; podemos decir que es un vino maduro, prueba de ello es su tonalidad granate con matices de color ladrillo. ",
+        "fechaActualizacion": 3
+      },
+      {
+        "nombre": "Echezeaux",
+        "imagen": "https://www.vinosita.com/735-large_default/grands-echezeaux-grand-cru-2018-cassa-legno-domaine-de-la-romanee-conti.jpg",
+        "precio": 999900,
+        "aniada": 2018,
+        "notaDeCata": "Los vinos Grand-Echézeaux producidos por Domaine de la Romanée Conti se caracterizan por su color brillante, fuerte y brillante. Grand cru junto con Echézeaux, es aún más complejo y apto para envejecer que su hermano menor. Tiene una nariz muy aromática de frutos rojos y negros mezclados con notas de roble y especias",
+        "fechaActualizacion": 3
+      },
+      {
+        "nombre": "Musigny Grand Cru",
+        "imagen": "https://images.vivino.com/thumbs/aag6IXBBR927GdrPd7jUvA_pb_x600.png",
+        "precio": 1497500,
+        "aniada": 1980,
+        "notaDeCata": "Es un vino tinto elaborado con Pinot Noir por Domaine Comte Georges de Vogüé, con DO Musigny. Es una expresión sublime de uno de los viñedos más célebres de Borgoña. Este vino tinto, elaborado en el corazón de la región vinícola francesa, destaca por su complejidad y elegancia.",
+        "fechaActualizacion": 3
+      },
+      {
+        "nombre": "Montrachet Grand Cru",
+        "imagen": "https://www.diprimsa.es/wp-content/uploads/2015/02/Montrachet-GD-Cru-453x1024.jpg",
+        "precio": 480000,
+        "aniada": 2015,
+        "notaDeCata": "El Montrachet 2015 revela un precioso color dorado. En nariz es intenso y complejo con aromas tostados y café. En boca es tenso, potente y denso con notas de melocotón blanco, majuelo y almendras. Final mineral y muy largo.",
+        "fechaActualizacion": 3
+      },
+      {
+        "nombre": "Chateau DYquem",
+        "imagen": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/a792aa65-12d9-4861-ae0e-20de40b6ff21.329c2e8466e0a445cf8ee07403018c0f.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+        "precio": 1542000,
+        "aniada": 2021,
+        "notaDeCata": "Se dice que un postre bueno hace grande a una comida mediocre, y por supuesto el vino que acompañe a dicho postre debe estar a su nivel para conseguir emocionar a todos los comensales. Debido a esto, nos hemos dado a la tarea de traerte un vino de postre que haga que tus postres sean extraordinarios.",
+        "fechaActualizacion": 3
+      },
+      {
+        "nombre": "DISZNOKO TOKAJI 6",
+        "imagen": "https://insolity.com/1831-large_default/disznoko-tokaji-6-puttonyos-aszu-2016.jpg",
+        "precio": 93650,
+        "aniada": 2016,
+        "notaDeCata": "De capas doradas brillantes, Disznóko Tokaji 6 Puttonyos Aszú 2016 sugiere aromas finos y precisos de albaricoque, frutas de hueso, miel y especias. De boca envolvente y con remarcada acidez, siendo un vino dulce intenso y estructura verical, acompañado de notas especiadas en su largo final.",
+        "fechaActualizacion": 3
+      },
+      {
+        "nombre": "Pinot Grigio",
+        "imagen": "https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00008500001444L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+        "precio": 10865,
+        "aniada": 2023,
+        "notaDeCata": "Barefoot Pinot Grigio tiene un color amarillo pajizo, desprende aromas a frutas cítricas como manzana verde dando un sabor levemente ácido que marida perfectamente con pescados y mariscos, pollo platos de salsa blanca, quesos y frutas.",
+        "fechaActualizacion": 3
+      },
+      {
+        "nombre": "Sauvignon Blanc",
+        "imagen": "https://labodegadevino.com/cdn/shop/products/VinoReservadoBlancoCT_503x.png?v=1675810291",
+        "precio": 6686,
+        "aniada": 2022,
+        "notaDeCata": "Es un vino que resulta maravilloso para acompañar pescados, mariscos, ensaladas o para disfrutarse como aperitivo.  Es muy refrescante, redondo y balanceado con una agradable acidez y delicioso frescor.",
+        "fechaActualizacion": 3
+      },
+      {
+        "nombre": "Nun Riesling",
+        "imagen": "https://www.laeuropea.com.mx/media/catalog/product/cache/a26d55f417b24cf05a5296f884382fe4/1/0/10000001638.jpg",
+        "precio": 15200,
+        "aniada": 2023,
+        "notaDeCata": "Es franco, agradable, la fruta predomina con aromas maduros de cítricos, limón confitado y un toquecito floral. Es fino y fresco",
+        "fechaActualizacion": 3
+      }
+    ]
+  }
