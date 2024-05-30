@@ -1,39 +1,81 @@
 {
     "bodegas": [
       {
-        "nombre": "Rutini Wines ",
-        "descripcion": "Esta bodega familiar, ubicada en el Valle de Uco, Mendoza, Argentina, es conocida por sus vinos tintos elaborados con uvas Malbec, Cabernet Sauvignon y Merlot. La bodega también produce una gama de vinos blancos y rosados, así como espumosos. ",
-        "historia": "Rutini Wines se convierte en 1925 en la primera bodega en plantar viñedos en el Valle de Uco, reconocido hoy en el mundo como una de las principales regiones vitivinícolas de Mendoza y de toda Argentina",
-        "periodoActualizacion" : "5",
+        "nombre": "Rutini Wines",
+        "descripcion": "Esta bodega familiar, ubicada en el Valle de Uco, Mendoza, Argentina, es conocida por sus vinos tintos elaborados con uvas Malbec, Cabernet Sauvignon y Merlot. La bodega también produce una gama de vinos blancos y rosados, así como espumosos.",
+        "historia": "Rutini Wines se convierte en 1925 en la primera bodega en plantar viñedos en el Valle de Uco, reconocido hoy en el mundo como una de las principales regiones vitivinícolas de Mendoza y de toda Argentina.",
+        "periodoActualizacion" : 5,
         "coordenadas" : "-33.4523018, -69.2113385"
       },
       {
         "nombre": "Monte Xanic",
         "descripcion": "Monte Xanic es la bodega mexicana líder en vinos premium y un referente para la industria de vinos en México.",
         "historia": "Monte Xanic was founded in 1987 by Eric, Hans, Manuel, Ricardo and Tomás, all great lovers of good wine and with a common dream: to create quality Mexican wines that would position Mexico on the international oenology map. At a time when no one imagined it possible to create a premium Mexican wine that could represent the best of Mexico and of which all Mexicans could feel proud, they visualized it as possible. “If we don't sell it, we take it” was one of the founders' favorite phrases.",
-        "periodoActualizacion" : "2",
+        "periodoActualizacion" : 2,
         "coordenadas" : "32.0946337, -116.5899703"
       },
       {
         "nombre": "Chateau Margaux",
-        "descripcion": "El excepcional terroir de Château Margaux, con 500 años de experiencia acumulada, sigue siendo su ADN. La meta actual es producir la mejor añada posible y alcanzar la excelencia. ",
-        "historia": "Château Margaux se erige como una joya única con una historia que se remonta a 20,000 años, durante la Era Pleistoceno. Los glaciares molieron una porción de los Pirineos en grava, enviándola por el río Garona hasta el Médoc. Sin saberlo, el glaciar estaba creando el terroir definitivo para Château Margaux. ",
-        "periodoActualizacion" : "6",
+        "descripcion": "El excepcional terroir de Château Margaux, con 500 años de experiencia acumulada, sigue siendo su ADN. La meta actual es producir la mejor añada posible y alcanzar la excelencia.",
+        "historia": "Château Margaux se erige como una joya única con una historia que se remonta a 20,000 años, durante la Era Pleistoceno. Los glaciares molieron una porción de los Pirineos en grava, enviándola por el río Garona hasta el Médoc. Sin saberlo, el glaciar estaba creando el terroir definitivo para Château Margaux.",
+        "periodoActualizacion" : 6,
         "coordenadas" : "45.0444108, -0.6688001,21"
       },
       {
         "nombre": "Antinori nel Chianti Classico",
-        "descripcion": "Los Antinori son el icono de una historia que mira al pasado para avanzar en el el futuro. Una familia que se apoya en valores concretos como perseverancia, paciencia y respeto por el ambiente para producir vinos que buscan la máxima pureza, elegancia y expresión de un específico territorio",
+        "descripcion": "Los Antinori son el icono de una historia que mira al pasado para avanzar en el el futuro. Una familia que se apoya en valores concretos como perseverancia, paciencia y respeto por el ambiente para producir vinos que buscan la máxima pureza, elegancia y expresión de un específico territorio.",
         "historia": "Basta entrar en la bodega y acercarse al árbol genealógico de la familia Antinori para darse cuenta de que nos encontramos delante de una de las familias más antiguas del planeta. Los marqueses empezaron a producir vino en 1385 y llevan más de 600 años trabajando con las viñas. Una historia de amor que ha llegado hasta la actual generación, la número 26.",
-        "periodoActualizacion" : "3",
+        "periodoActualizacion" : 3,
         "coordenadas" : "43.6123886, 11.1890412"
       },
       {
         "nombre": "Bodega Domaine Changyu",
         "descripcion": "Domaine Changyu es la bodega más antigua de China. La bodega produce una gama de vinos tintos, blancos y rosados, así como brandies y vinos de arroz. Domaine Changyu es conocida por sus vinos elaborados con uvas Cabernet Sauvignon, Merlot y Chardonnay.",
         "historia": "Como la primera bodega en China, CHANGYU PIONEER fue fundada en 1892 por Zhang Bishi, un diplomático chino residente en el extranjero. Decidió iniciar su bodega pionera en Yantai y la llamó 'Zhang Yu Wine Company'. Importó más de 500.000 plantas de vid de los EE. UU. y Europa, allanando así el camino para la producción moderna de vino chino, con el apoyo de un viticultor austriaco: August Wilhelm Baron von Babo.",
-        "periodoActualizacion" : "9",
+        "periodoActualizacion" : 9,
         "coordenadas" : "38.487193, 97.0023924"
+      },
+      {
+        "nombre": "Bodega Penfolds",
+        "descripcion": "Ubicada en el Valle de Barossa, Australia, Penfolds es una de las bodegas más famosas e icónicas de Australia. La bodega produce una amplia gama de vinos tintos, blancos y rosados, así como vinos fortificados.",
+        "historia": "Establecido en 1844, sólo ocho años después de la fundación de Australia del Sur, Penfolds ha desempeñado un papel fundamental en la evolución de la elaboración del vino en Australia y en todo el mundo. Penfolds se estableció en un espíritu de innovación y búsqueda constante y sin fin de la calidad, se evidencia a partir de los embotellados secretos de Grange en 1951.",
+        "periodoActualizacion" : 4,
+        "coordenadas" : "-32.1266042, 130.9938857"
+      },
+      {
+        "nombre": "Bodega Miolo Wine Group",
+        "descripcion": "Miolo Wine Group es líder en el mercado brasilero de vinos finos, representando un 40% en el market share y una referencia en calidad. Es la mayor exportadora brasilera de vinos y está entre las tres principales productoras de espumantes.",
+        "historia": "Aunque la familia Miolo ha trabajado en la viticultura desde 1897, fue recién a partir de 1990 que sus vinos comenzaron a ser comercializados. El primer Miolo fue un Merlot producido con uvas de “Vale dos Vinhedos”, donde se encuentra la bodega.",
+        "periodoActualizacion" : 8,
+        "coordenadas" : "-29.5594987,-52.1293495"
+      },
+      {
+        "nombre": "Inniskillin Wines",
+        "descripcion": "Inniskillin, la primera bodega canadiense, es reconocida internacionalmente por sus vinos premiados y por su papel pionero en el establecimiento de la industria vitivinícola canadiense.",
+        "historia": "El 31 de julio de 1975, sus fundadores hicieron historia al obtener la primera licencia de bodega en Canadá desde la Prohibición. Inniskillin saltó a la fama mundial con su triunfo en la Vinexpo de 1991, en Burdeos, Francia, cuando su Vidal Icewine recibió el máximo galardón, el Grand Prix d'Honneur, cambiando la forma en que el mundo ve el vino canadiense.",
+        "periodoActualizacion" : 10,
+        "coordenadas" : "43.2100281, -79.0687966"
+      },
+      {
+        "nombre": "Grover Zampa Vineyards",
+        "descripcion": "Ubicada en el Valle de Wah, India, Grover Zampa es una de las bodegas pioneras de la India. La bodega produce una amplia gama de vinos tintos, blancos y rosados, así como espumosos. Grover Zampa es conocida por sus vinos elaborados con uvas autóctonas indias, como la uva Bangalore Blue.",
+        "historia": "Es la bodega más antigua, ya que empezó en 1988 en el área de Karnataka. Grover es la bodega india más reconocida en el plano internacional. En el 2018, recibió el premio a Mejor Bodega del año de Asian Wine Review.",
+        "periodoActualizacion" : 3,
+        "coordenadas" : "13.286726, 77.5798867"
+      },
+      {
+        "nombre": "Vergelegen Wine Estate",
+        "descripcion": "Además de sus excelentes vinos, Vergelegen Estate también es conocida por sus hermosos jardines y su arquitectura colonial holandesa. La bodega ofrece una variedad de tours y degustaciones, así como un restaurante galardonado.",
+        "historia": "Fundada el 1 de febrero de 1700, Vergelegen ha estado bajo la propiedad de algunos de los grandes exploradores y visionarios del mundo, cada uno de los cuales, a su manera, ha contribuido a dar forma a Vergelegen a lo que es hoy: una finca de clase mundial.",
+        "periodoActualizacion" : 1,
+        "coordenadas" : "-34.0772932, 18.8917315"
+      },
+      {
+        "nombre": "Abrau-Durso Winery",
+        "descripcion": "Abrau-Durso es la bodega más grande de Rusia y produce más de 6 millones de botellas de vino al año. Además, es conocida por sus vinos espumosos, elaborados con el método tradicional champenoise.",
+        "historia": "En febrero de 1871, el emperador Alejandro II ordenó fundar una finca vinícola entre el lago Abrau y el río Durso. Con el pasar de los años y la mejora en tecnología y mano de obra, se llegó hasta lo que es esta bodega el día de hoy, una referente de la vinicultura del país.",
+        "periodoActualizacion" : 7,
+        "coordenadas" : "44.7028871, 37.5988755"
       }
     ]
   }
